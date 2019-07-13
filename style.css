@@ -95,6 +95,9 @@ body{
 .BioCode{
     width: auto;
     height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
     background-color: url(images/bg_1.jpg);    
 }
 
