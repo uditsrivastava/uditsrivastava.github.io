@@ -98,7 +98,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    background-color: url(images/bg_1.jpg);    
+    background-color: rgb(255, 255, 255);    
 }
 
 .terminal{
