@@ -93,8 +93,8 @@ body{
 
 /*________________________________________________________________________BioCode Section_______________*/
 .BioCode{
-    width: 940px;
-    height: 814px;
+    width: auto;
+    height: 940;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
