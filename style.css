@@ -93,9 +93,12 @@ body{
 
 /*________________________________________________________________________BioCode Section_______________*/
 .BioCode{
-    width: auto;
-    height: 900px;
-    background-color: #FF0000 ;    
+    width: 940px;
+    height: 814px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-image: url(images/bg_1.jpg)    
 }
 
 .terminal{
@@ -130,12 +133,9 @@ body{
 /*________________________________________________________________________Education Section_______________*/
 
 .Education{
-    width: 940px;
-    height: 814px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    background-image: url(images/terminal.png)
+    width: auto;
+    height: 900px;
+    background-color: #FF0000 ; 
 }
 
 .Banner_Education{
